@@ -1,0 +1,43 @@
+Prediction Results for Sensor Increase Times
+===========================================
+
+Sensor 0:
+  Initial value: 20.413212
+  To increase 10.0%, the least T is: 23
+
+Sensor 1:
+  Initial value: 36.846244
+  To increase 10.0%, the least T is: 53
+
+Sensor 2:
+  Initial value: 11.815751
+  To increase 10.0%, the least T is: 89
+
+Sensor 3:
+  Initial value: 72.57335
+  To increase 10.0%, the least T is: 21
+
+Sensor 4:
+  Initial value: 32.681898
+  To increase 10.0%, the least T is: 309
+
+Sensor 5:
+  Initial value: 3.5526629999999995
+  To increase 10.0%, the least T is: 73
+
+Sensor 6:
+  Initial value: 177.02
+  To increase 10.0%, the least T is: -1
+
+Sensor 7:
+  Initial value: 19.160318
+  To increase 10.0%, the least T is: 73
+
+Sensor 8:
+  Initial value: 11.086667
+  To increase 10.0%, the least T is: 47
+
+Sensor 9:
+  Initial value: 18.024734
+  To increase 10.0%, the least T is: -1
+
